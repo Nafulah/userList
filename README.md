@@ -3,7 +3,7 @@
 A full-stack MERN application deployed on Microsoft Azure App Service with MongoDB Atlas.
 
 **Author:** Adelight Nafula
-**Live URL:** `https://userlist-adel.azurewebsites.net` (replace with your actual Azure URL)
+**Live URL:** `https://userlist-adel.azurewebsites.net`
 **Local URL:** `http://localhost:5000`
 
 ## 🚀 Features
